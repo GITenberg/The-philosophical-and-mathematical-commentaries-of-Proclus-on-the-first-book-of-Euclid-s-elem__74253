@@ -1,0 +1,49 @@
+_repo: The-philosophical-and-mathematical-commentaries-of-Proclus-on-the-first-book-of-Euclid-s-elem__74253
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Taylor, Thomas
+    birthdate: 1758
+    deathdate: 1835
+    gutenberg_agent_id: '3385'
+    url: http://www.gutenberg.org/2009/agents/3385
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Taylor_%28neoplatonist%29
+creator:
+  author:
+    agent_name: Proclus
+    aliases:
+    - Proclus Diadochus
+    - Proclus Lycius
+    - Πρόκλος Διάδοχος
+    birthdate: 412
+    deathdate: 485
+    gutenberg_agent_id: '55965'
+    url: http://www.gutenberg.org/2009/agents/55965
+    wikipedia: https://en.wikipedia.org/wiki/Proclus
+description: ''
+gutenberg_issued: '2024-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74253'
+language: en
+pgterms:marc904: https://archive.org/details/taylor-philosophical-and-mathematical-commentaries...-t.-1-en-1792/page/50/mode/1up
+pgterms:marc905: 20220918051805proclus
+pgterms:marc906: '1791'
+pgterms:marc907: GB
+production_note: Wouter Franssen, Karin Spence and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bPrinted for the author, $c1791.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Euclid. Elements'
+- !lcsh 'Platonists'
+- !lcc 'QA'
+- GITenberg
+title: 'The philosophical and mathematical commentaries of Proclus on the first book
+  of Euclid''s elements (Vol. 1 of 2) : $b To which are added, A history of the restoration
+  of Platonic theology, by the latter Platonists: And a translation from the Greek
+  of Proclus''s Theological elements'
+url: http://www.gutenberg.org/ebooks/74253
